@@ -1,8 +1,8 @@
 # About
 
-This is EXODUS's Code Library, and it is temporarily managing by me.
+This is [EXODUS](https://github.com/exodus-dream)'s Code Library, and it is temporarily managing by [W-RB](https://github.com/w-rb).
 
-EXODUS is our REDSUN!
+**EXODUS is our REDSUN!**
 
 sto EXODUS orz
 
